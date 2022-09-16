@@ -1,1 +1,1 @@
-# journal
+A minimalistic journaling application.
